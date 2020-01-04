@@ -1,0 +1,1 @@
+create table PEOPLE(first VARCHAR, last VARCHAR, email VARCHAR );
